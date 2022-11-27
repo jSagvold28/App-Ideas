@@ -44,6 +44,24 @@ Can be for a iOS app, Android App, web app, ect.
 ### best evs
 ### nft sellling app
 ### crytpo trading app
+### video calling app
+### stopwatch
+### expense tracker
+### Uber Clone
+### netflix clone
+### GitHub client
+### freind status app
+### football score app
+### tech news app
+### news app
+### local news
+### wallpaper app
+### apple store app
+### apple store guide
+### quiz app
+### trivia app
+### wind MPH/KMH app
+### 
 
 
 # Watch apps:
