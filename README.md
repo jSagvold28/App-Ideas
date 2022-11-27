@@ -37,7 +37,13 @@ Can be for a iOS app, Android App, web app, ect.
 ### notes app
 ### todo list app
 ### file app
-
+###  handwritten note app
+### quote apps
+### video content app
+### ev charging map
+### best evs
+### nft sellling app
+### crytpo trading app
 
 
 # Watch apps:
