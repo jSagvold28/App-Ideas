@@ -15,6 +15,7 @@ Can be for a iOS app, Android App, web app, ect.
 ### History of a car comapny
 ### XCode fun facts
 ### ____ and solution
+### Twitch client (is it possible)
 ### Keyboard shortcuts for an app
 ### stocks app
 ### clipboard app
@@ -67,3 +68,12 @@ Can be for a iOS app, Android App, web app, ect.
 # Watch apps:
 ### Fitniss app
 ### water log
+
+
+# Other ideas
+
+### go off of a API that you like
+### pick a API and go off of it
+### pick a tutorial and go with it
+### buy a tutorial on Udemy, Skillshare, ect
+### make a app that would benifit you, your freinds, your family, your town
