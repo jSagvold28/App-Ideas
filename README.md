@@ -68,6 +68,7 @@ Can be for a iOS app, Android App, web app, ect.
 # Watch apps:
 ### Fitniss app
 ### water log
+### phone media controler
 
 
 # Other ideas
