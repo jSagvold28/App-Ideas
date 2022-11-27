@@ -71,7 +71,11 @@ Can be for a iOS app, Android App, web app, ect.
 ### phone media controler
 
 # Games:
-
+### triva game
+### quiz game
+### runner game (like temple run)
+### obby game
+### simulator game
 
 # Other ideas:
 
