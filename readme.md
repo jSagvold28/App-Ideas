@@ -70,8 +70,10 @@ Can be for a iOS app, Android App, web app, ect.
 ### water log
 ### phone media controler
 
+# Games:
 
-# Other ideas
+
+# Other ideas:
 
 ### go off of a API that you like
 ### pick a API and go off of it
