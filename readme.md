@@ -13,7 +13,7 @@ Can be for a iOS app, Android App, web app, ect.
 ### History of a company
 ### history of apple
 ### History of a car comapny
-### XCode fun facts
+### Xcode fun facts
 ### ____ and solution
 ### Twitch client (is it possible)
 ### Keyboard shortcuts for an app
